@@ -1,0 +1,44 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": "hard disk drive has been corrupted",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-05-31T03:43:56.080Z"
+    },
+    {
+      "message": "ggggggg",
+      "attention": false,
+      "tech": "San Smith",
+      "date": "2021-05-31T03:32:07.223Z",
+      "id": 4
+    },
+    {
+      "message": "Hello",
+      "attention": true,
+      "tech": "SaiTeja Gatadi",
+      "date": "2024-04-16T15:11:54.308Z",
+      "id": 5
+    },
+    {
+      "message": "Hello",
+      "attention": false,
+      "tech": "Chandrashekar Kalal",
+      "date": "2024-04-16T15:15:29.234Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "SaiTeja",
+      "lastName": "Gatadi",
+      "id": 4
+    },
+    {
+      "firstName": "Chandrashekar",
+      "lastName": "Kalal",
+      "id": 5
+    }
+  ]
+}
